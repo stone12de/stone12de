@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Til / @stone12de
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning Docker
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 stone12de/stone12de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
