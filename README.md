@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Til / @stone12de
-- 👀 I’m interested in DataScience
+- 👀 I’m interested in data science, machine learning, programming (Python (Pandas, scikit-learn, pyspark,...), Matlab, Java, ...), control design, system theory
 - 🌱 I’m currently learning Docker
 
 <!---
